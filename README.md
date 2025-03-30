@@ -31,8 +31,10 @@ The Cybersecurity Fake News Detector is a full-stack web application that allows
 
 ```
 cybersecurity-fake-news-detector/
-├── index.html          # Html File
-├── result.html
+├── templates/          # Html File
+├── app.py              # contain flask integration
+├── database.py         # contain Sqlite File to store api key result and analysis
+├── main.py             # for terminal input and output
 ├── analyzer.py         # Analysis result page
 ├── screenshots/        # Folder for demo images
 │   ├── input-form.png
