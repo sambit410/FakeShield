@@ -24,6 +24,8 @@ The Cybersecurity Fake News Detector is a full-stack web application that allows
 
 - **HTML5**: Structure of the web pages.
 - **CSS3**: Styling with gradients, shadows, and responsive design.
+- **Python**: For MainStream analyzing and result validation.
+- **Flask**: For Seamless python webFrame Integration.
 
 ## Project Structure
 
