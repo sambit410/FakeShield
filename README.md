@@ -16,7 +16,7 @@ The Cybersecurity Fake News Detector is a full-stack web application that allows
 ## Screenshots
 
 ![Input Form](https://github.com/sambit410/FakeShield/blob/main/Screenshot%202025-03-30%20095759.png)
-![Analysis Result](screenshots/result-page.png)
+![Analysis Result](https://github.com/sambit410/FakeShield/blob/main/Screenshot%202025-03-30%20100039.png)
 
 *(Add screenshots to a `screenshots` folder in your repo and update the paths above.)*
 
